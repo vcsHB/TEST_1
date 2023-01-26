@@ -4,3 +4,5 @@
 4. sdihos 
 5. ㅁㄴㅇㄹ
 6. ㅁㄴㅇㄹㄹ
+7.  git config --global user.name "vcs"  이러고 엔터
+8.  git config --global user.email "이메일"   이러고 엔터 ㅋㅋㅋㅋ
