@@ -6,3 +6,9 @@
 6. ㅁㄴㅇㄹㄹ
 7.  git config --global user.name "vcs"  이러고 엔터
 8.  git config --global user.email "이메일"   이러고 엔터 ㅋㅋㅋㅋ
+
+
+작업을 하고나면 
+1.저장
+2. git add 작업한 파일
+3. git commit -m "내용"
